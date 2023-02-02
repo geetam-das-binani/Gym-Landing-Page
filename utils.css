@@ -1,0 +1,58 @@
+/* .bg-hotpink{
+    background-color:palegreen;
+} */
+.m-x {
+    margin: auto;
+
+}
+
+.bold {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #221f9f;
+
+
+}
+main{
+    position: relative;
+}
+
+.section1 {
+    margin: 1em;
+    position: relative;
+    
+}
+
+.section2 {
+    margin: 2em;
+    position: relative;
+}
+.section3{
+    margin: 2em;
+    position: relative;
+    
+}
+
+.section2 h2 {
+    text-align: center;
+
+
+}
+
+.section2_title {
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+
+.box li {
+    list-style: none;
+}
+
+
+.box h2 {
+    text-align: center;
+    margin: 1em;
+    border-bottom: 1px solid black;
+    padding-bottom: .5em;
+}
